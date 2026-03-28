@@ -1,0 +1,47 @@
+# --- Core Data Science & Math ---
+numpy
+pandas
+scikit-learn
+scipy
+
+# --- Visualization ---
+matplotlib
+seaborn
+plotly
+
+# --- Deep Learning (TensorFlow/Keras) ---
+# CampusX relies heavily on Keras for the first half of the playlist
+tensorflow
+keras
+keras-tuner
+
+# --- Deep Learning (PyTorch) ---
+# Essential for modern research and later stages of the playlist
+torch
+torchvision
+torchaudio
+
+# --- Computer Vision ---
+opencv-python
+pillow
+albumentations
+
+# --- Natural Language Processing (NLP) ---
+nltk
+spacy
+gensim
+transformers
+datasets
+tokenizers
+
+# --- Web App & Deployment (For Projects) ---
+# CampusX uses Streamlit extensively for demos
+streamlit
+flask
+
+# --- Utilities & Jupyter ---
+jupyter
+notebook
+tqdm
+ipykernel
+joblib
