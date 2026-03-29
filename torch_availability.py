@@ -10,3 +10,5 @@ def check_gpu():
 
 if __name__ == "__main__":
     check_gpu()
+
+# torch cuda command pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
